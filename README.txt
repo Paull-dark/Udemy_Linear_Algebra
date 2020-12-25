@@ -15,3 +15,21 @@ CONTENT OF NOTEBOOKS:
 	- Transpose
 	- Diagonal and Trace
 	- Broadcasting matrix arithmetic
+
+03_LinALG_Matrices_Multiplication
+	- Standard matrix multiplication
+	- Order-of-operations on matrices
+	- Matrix-vector multiplication
+	- 2D transformation matrices
+	- Additive and multiplicative matrix identities
+	- Multiplication of two symmetric matrices
+	- Frobenius dot-product
+	- Matrix norms
+
+04_LinALG_Matrices_RANK
+	- Computing rank: theory and practice
+	- Reduced-rank matrix using multiplication
+	- Rank of a product btw two Matrices
+	- Rank of multiplied and sum Matrices?
+	- Making a matrix a full-rank by shifting
+	-IS the vector in a span 
