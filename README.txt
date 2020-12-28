@@ -32,4 +32,7 @@ CONTENT OF NOTEBOOKS:
 	- Rank of a product btw two Matrices
 	- Rank of multiplied and sum Matrices?
 	- Making a matrix a full-rank by shifting
-	-IS the vector in a span 
+	-IS the vector in a span
+05_LinALG_Matrix_spaces
+
+06_LinALG_systems
